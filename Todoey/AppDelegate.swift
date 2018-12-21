@@ -17,7 +17,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         
         // Uncomment to print the location of the Realm data file
-         print(Realm.Configuration.defaultConfiguration.fileURL)
+//         print(Realm.Configuration.defaultConfiguration.fileURL)
         
         
         do {
